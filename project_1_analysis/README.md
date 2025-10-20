@@ -1,4 +1,4 @@
-# Proyecto 1 — Análisis de Ventas y Rentabilidad
+# Proyecto 1 — Análisis de Ventas y Rentabilidad 
 
 ## 1. Descripción general
 
